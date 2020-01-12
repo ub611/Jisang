@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Mypage/Signup_mgrVC.swift"
+            timestampString = "537017720.84352"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "Signup_mgrVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/cell/BestListCell.swift"
+            timestampString = "537261938.412712"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.BestListCell.__deallocating_deinit"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/cell/BestListCell.swift"
+                  timestampString = "537090718.266098"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.BestListCell.__allocating_init(frame: __C.CGRect) -&gt; sopt21_jisang.BestListCell"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/cell/BestListCell.swift"
+                  timestampString = "537090718.2695971"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.BestListCell.init(frame: __C.CGRect) -&gt; sopt21_jisang.BestListCell"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/cell/BestListCell.swift"
+                  timestampString = "537090718.27179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.BestListCell.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;sopt21_jisang.BestListCell&gt;"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/cell/BestListCell.swift"
+                  timestampString = "537090718.273381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.BestListCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;sopt21_jisang.BestListCell&gt;"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/cell/BestListCell.swift"
+                  timestampString = "537090718.2752301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/cell/ItemCell/ItemAllCell.swift"
+            timestampString = "537441030.648433"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ItemAllCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Item/ItemDetailVC.swift"
+            timestampString = "537303780.844815"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "didReceiveMemoryWarning()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Item/ItemVC.swift"
+            timestampString = "537456612.056572"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Heart/HeartDetailShopVC.swift"
+            timestampString = "537506588.520048"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "HeartDetailShopVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.HeartDetailShopVC.(cvDataSource in _6A0251A2A9C57C1B469E87AF8D005113).getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewDataSource&gt;"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Downloads/sopt21_jisang%202%202%202/sopt21_jisang/VC/Heart/HeartDetailShopVC.swift"
+                  timestampString = "537451804.9534611"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.HeartDetailShopVC.(cvDataSource in _6A0251A2A9C57C1B469E87AF8D005113).setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UICollectionViewDataSource&gt;"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Downloads/sopt21_jisang%202%202%202/sopt21_jisang/VC/Heart/HeartDetailShopVC.swift"
+                  timestampString = "537451804.955339"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.HeartDetailShopVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; sopt21_jisang.HeartDetailShopVC"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Downloads/sopt21_jisang%202%202%202/sopt21_jisang/VC/Heart/HeartDetailShopVC.swift"
+                  timestampString = "537451804.957325"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.HeartDetailShopVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;sopt21_jisang.HeartDetailShopVC&gt;"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Downloads/sopt21_jisang%202%202%202/sopt21_jisang/VC/Heart/HeartDetailShopVC.swift"
+                  timestampString = "537451804.959228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Item/ItemVC.swift"
+            timestampString = "537456612.057007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Location/LocationCateoryStoreVC.swift"
+            timestampString = "537299222.65073"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h"
+            timestampString = "537454719.058092"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Location/LocationDetailStoreVC.swift"
+            timestampString = "537506588.520169"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.LocationDetailStoreVC.__deallocating_deinit"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/VC/Location/LocationDetailStoreVC.swift"
+                  timestampString = "537297129.151371"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.LocationDetailStoreVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; sopt21_jisang.LocationDetailStoreVC"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/VC/Location/LocationDetailStoreVC.swift"
+                  timestampString = "537297129.153687"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.LocationDetailStoreVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; sopt21_jisang.LocationDetailStoreVC"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/VC/Location/LocationDetailStoreVC.swift"
+                  timestampString = "537297129.1562099"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.LocationDetailStoreVC.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;sopt21_jisang.LocationDetailStoreVC&gt;"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/VC/Location/LocationDetailStoreVC.swift"
+                  timestampString = "537297129.157988"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sopt21_jisang.LocationDetailStoreVC.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;sopt21_jisang.LocationDetailStoreVC&gt;"
+                  moduleName = "sopt21_jisang"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ubinkim/Desktop/sopt21_jisang%202%202/sopt21_jisang/VC/Location/LocationDetailStoreVC.swift"
+                  timestampString = "537297129.160159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Location/LocationVC.swift"
+            timestampString = "537512222.396188"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "LocationVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Heart/HeartDetailShopVC.swift"
+            timestampString = "537506588.5202889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Location/LocationCategoryStoreVC.swift"
+            timestampString = "537506588.520336"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "initCategory(caid:ind:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Heart/HeartVC.swift"
+            timestampString = "537506588.5204051"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Location/LocationDetailStoreVC.swift"
+            timestampString = "537506588.520447"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "btnMap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sopt21_jisang/VC/Location/LocationVC.swift"
+            timestampString = "537512222.396584"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "btn2(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

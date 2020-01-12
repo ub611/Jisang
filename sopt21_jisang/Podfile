@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'sopt21_jisang' do
+    pod 'Alamofire'
+    pod 'SwiftyJSON'
+    pod 'Kingfisher'
+    pod 'ObjectMapper'
+    pod 'ExpandableTableViewController'
+    pod 'KMPlaceholderTextView', '~> 1.3.0'
+    pod 'UITextView+Placeholder', '~> 1.2'
+    pod 'AlamofireObjectMapper'
+end
